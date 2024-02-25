@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8fed5d55bc918243870473c8abfcac4, type: 3}
+  m_Name: Armond
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 7be153a8fadf89c46a20d6b3df702037, type: 3}
+  name: Armond
+  LVL: 1
+  HP: 30
+  MP: 12
+  ATK: 10
+  DEF: 18
+  INT: 5
+  LUK: 5
+  AGI: 6
+  MND: 12
